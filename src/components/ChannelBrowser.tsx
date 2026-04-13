@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import {
     Box, Button, HStack, VStack, Text, Input, Spinner, Center,
-    Badge, DialogRoot, DialogContent, DialogHeader, DialogBody,
+     DialogRoot, DialogContent, DialogHeader, DialogBody,
     DialogTitle, DialogCloseTrigger, IconButton,
 } from "@chakra-ui/react";
 import { Search, Hash, Users, Check, X } from "lucide-react";
